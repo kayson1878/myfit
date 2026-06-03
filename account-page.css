@@ -1,0 +1,61 @@
+.page-one{
+    background-color: black;
+}
+
+h1{
+    font-size: 120px;
+    text-align: center;
+    color: white;
+}
+
+a{ 
+    color: white;
+    text-decoration: none;
+    font-size: 90px;
+}
+
+.profile-one{
+    background-color: rgb(24, 88, 40);
+    width: 300px;
+    border-radius: 150px;
+    border-width: 50px;
+    text-align: center;
+    margin-bottom: 90px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+    padding-bottom:100px;
+}
+
+.profile-two{
+    background-color: rgb(39, 50, 110);
+    width: 300px;
+    border-radius: 150px;
+    border-width: 50px;
+    text-align: center;
+    margin-bottom: 90px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.profile-three{
+    background-color: rgb(85, 26, 134);
+    width: 300px;
+    border-radius: 150px;
+    border-width: 50px;
+    text-align: center;
+    margin-bottom: 90px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+p{
+    border-bottom: 0.2px solid white;
+}
